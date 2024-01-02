@@ -1,5 +1,2 @@
-import flutter'package:flutter/material.dart';
-void main() {
-  Text('Hello world');
-}
+import 'package:flutter/material.dart';
 
