@@ -5,7 +5,8 @@ void main() {
     MaterialApp(
       title: 'My first Flutter App',
       home: Scaffold(
-        appBar: AppBar(title: Text('Dashboard'.toUpperCase()),),
+        appBar: AppBar(title: Text('Dashboard'.toUpperCase()),
+        backgroundColor: Colors.blueGrey,),
         body: Center(
             child: Text.rich(
                 TextSpan(
@@ -19,10 +20,10 @@ void main() {
                         text: 'App',
                         style: TextStyle(fontSize: 30.0, color: Colors.blue)),
                   ],
-                ),
-          ),
-        ),
-      ),
-    ),
+                ),//TextSpan accepts TextSpan as its children
+          ),//Text.rich accepts the child of type TextSpan
+        ),//center has a property child which refers to the actual content
+      ),//scaffold has two properties: body(specifies main user interface) and appBar(specifies header user interface)
+    ),//materialApp specifies the user interface of the home page
   );
 }
