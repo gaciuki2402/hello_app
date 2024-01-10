@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget{
       title: 'My Flutter App',
       themeMode: ThemeMode.system,
       debugShowCheckedModeBanner: false,
-      home: Dashboard() //scaffold has two properties: body(specifies main user interface) and appBar(specifies header user interface)
+      home: Dashboard()
     ); //materialApp specifies the user interface of the home page
   }
 }

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b64afeaa-73a0-49dc-9cf5-9e10ab96ebbe" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/test_project/lib/screens/dashboard.dart" afterDir="false" />
+    <list default="true" id="b64afeaa-73a0-49dc-9cf5-9e10ab96ebbe" name="Changes" comment="Organize Flutter Code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_project/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_project/lib/screens/dashboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/lib/screens/dashboard.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704569539268</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Organize Flutter Code">
+      <option name="closed" value="true" />
+      <created>1704738675763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704738675763</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning flutter" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Organize Flutter Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organize Flutter Code" />
   </component>
 </project>
