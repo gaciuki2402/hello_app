@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b64afeaa-73a0-49dc-9cf5-9e10ab96ebbe" name="Changes" comment="Organize Flutter Code">
+    <list default="true" id="b64afeaa-73a0-49dc-9cf5-9e10ab96ebbe" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/test_project/lib/images/WhatsApp Image 2023-06-16 at 23.06.46.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_project/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_project/lib/screens/dashboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/lib/screens/dashboard.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,14 +42,20 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/src/flutter_windows_3.16.5-stable/hello_app/test_project/lib/images&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\src\flutter_windows_3.16.5-stable\hello_app\test_project\lib\images" />
+    </key>
+  </component>
   <component name="RunManager" selected="Flutter.main.dart">
     <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
@@ -60,13 +66,12 @@
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
       <method v="2" />
     </configuration>
-    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/test_project/lib/main.dart" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Flutter.main.dart" />
         <item itemvalue="Dart Command Line App.main.dart" />
       </list>
     </recent_temporary>
@@ -128,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704738675763</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1704857212910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704857212910</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,8 +157,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning flutter" />
-    <MESSAGE value="initial commit" />
     <MESSAGE value="Organize Flutter Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organize Flutter Code" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
